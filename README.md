@@ -1,16 +1,13 @@
 # scrollpage
 scrollpage
 
+wisely
 
-페이지 구성:
-메인페이지
-회사소개
-찾아오시는길
-total : 3 scrollpage
-<<<<<<< HEAD
-build : html, css, sass, javascript
 
-내용추가
-=======
-build : html, css, sass
->>>>>>> parent of bcd4123 (readme update)
+시작하기
+상품보기
+와이즐리
+이야기고객센터
+
+로그인
+장바구니
